@@ -1,0 +1,8 @@
+.footer {
+  padding: 40px;
+  font-size: 24px;
+  box-shadow: -2px -4px 6px #ccc;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
